@@ -6,3 +6,10 @@ __pycache__/
 *.pyc
 .DS_Store
 .env
+# Registros de ejecucion (contienen destinatarios)
+*.log
+# Credenciales y adjuntos de los envios
+*.env
+*.docx
+*.pptx
+*.pdf
