@@ -1,0 +1,8 @@
+# Copia de seguridad: solo codigo y configuracion (2026-10-20)
+# Informes generados (contienen nombres de archivos personales)
+**/informes/
+# Caches y sistema
+__pycache__/
+*.pyc
+.DS_Store
+.env
